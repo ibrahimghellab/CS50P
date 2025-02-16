@@ -26,4 +26,4 @@ As part of the course, I developed a final project:
 🔗 **[My CS50P Final Project](https://github.com/ibrahimghellab/CurrencyConverter)**  
 
 ---
-**CS50P – Completed on [insert completion date]**  
+**CS50P – Completed on 16/02/2025**  
